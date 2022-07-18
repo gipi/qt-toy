@@ -10,7 +10,6 @@ class Kebab : public QObject
     Q_OBJECT
     /* Note: yo have to define everything inside here */
     Q_PROPERTY(Sauce sauce READ sauce WRITE setSauce NOTIFY sauceChanged)
-    QML_ELEMENT
 
 public:
     explicit Kebab(QObject *parent = nullptr);
