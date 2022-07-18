@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>files/images/blue.png</file>
+        <file>files/images/red.png</file>
+        <file>ui.qml</file>
+        <file>Kebab.qml</file>
+    </qresource>
+</RCC>
