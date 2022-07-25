@@ -1,4 +1,4 @@
-name: CMake
+name: Build binary on amd64
 
 on:
   push:
